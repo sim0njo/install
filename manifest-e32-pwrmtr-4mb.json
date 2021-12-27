@@ -1,0 +1,16 @@
+{
+  "name": "PwrMtr ESP32 WROOM/WROVER 4Mb",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "../install/e32PwrMtr4Mb/bootloader.bin", "offset": 4096 },
+        { "path": "../install/e32PwrMtr4Mb/partition-table.bin", "offset": 32768 },
+        { "path": "../install/e32PwrMtr4Mb/ota_data_initial.bin", "offset": 57344 },
+        { "path": "../install/e32PwrMtr4Mb/pwrmtr-4mb-v4.0.3.0.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}

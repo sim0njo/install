@@ -1,0 +1,16 @@
+{
+  "name": "Phc2Mqtt ESP32 WROVER 4Mb",
+  "new_install_prompt_erase": true,
+  "builds": [
+    {
+      "chipFamily": "ESP32",
+      "improv": false,
+      "parts": [
+        { "path": "../install/e32Phc2Mqtt4Mb/bootloader.bin", "offset": 4096 },
+        { "path": "../install/e32Phc2Mqtt4Mb/partition-table.bin", "offset": 32768 },
+        { "path": "../install/e32Phc2Mqtt4Mb/ota_data_initial.bin", "offset": 57344 },
+        { "path": "../install/e32Phc2Mqtt4Mb/p2m-4mb-v4.2.0.b.bin", "offset": 65536 }
+      ]
+    }
+  ]
+}
