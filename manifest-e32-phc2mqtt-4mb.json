@@ -9,7 +9,7 @@
         { "path": "../install/e32Phc2Mqtt4Mb/bootloader.bin", "offset": 4096 },
         { "path": "../install/e32Phc2Mqtt4Mb/partition-table-v3.bin", "offset": 32768 },
         { "path": "../install/e32Phc2Mqtt4Mb/ota_data_initial.bin", "offset": 53248 },
-        { "path": "../install/e32Phc2Mqtt4Mb/e32P2M-4Mb-pV3-v4.2.1.0.bin", "offset": 65536 }
+        { "path": "../install/e32Phc2Mqtt4Mb/e32P2M-4Mb-pV3-v4.2.1.1.bin", "offset": 65536 }
       ]
     }
   ]
