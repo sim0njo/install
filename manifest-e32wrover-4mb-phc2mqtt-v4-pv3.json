@@ -6,9 +6,9 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "../install/e32Phc2Mqtt4Mb/bootloader.bin", "offset": 4096 },
+        { "path": "../install/e32Phc2Mqtt4Mb/bootloader-v4.bin", "offset": 4096 },
         { "path": "../install/e32Phc2Mqtt4Mb/partition-table-v3.bin", "offset": 32768 },
-        { "path": "../install/e32Phc2Mqtt4Mb/ota_data_initial.bin", "offset": 53248 },
+        { "path": "../install/e32Phc2Mqtt4Mb/ota_data_initial-v4.bin", "offset": 53248 },
         { "path": "../install/e32Phc2Mqtt4Mb/e32P2M-4Mb-pV3-v4.2.2.7.bin", "offset": 65536 }
       ]
     }
